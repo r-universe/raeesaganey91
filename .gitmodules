@@ -5,3 +5,6 @@
 [submodule "prinsurf"]
 	path = prinsurf
 	url = https://github.com/raeesaganey91/prinsurf
+[submodule "wideRhino"]
+	path = wideRhino
+	url = https://github.com/raeesaganey91/widerhino
