@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "moveEZ"]
-	path = moveEZ
-	url = https://github.com/cran/moveEZ
 [submodule "prinsurf"]
 	path = prinsurf
 	url = https://github.com/raeesaganey91/prinsurf
